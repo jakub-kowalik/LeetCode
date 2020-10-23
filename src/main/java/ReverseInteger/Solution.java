@@ -14,6 +14,7 @@ class Solution {
 
             if (flag == 1)
                 answer *= -1;
+
             return answer;
         } catch (NumberFormatException e) {
             return 0;
