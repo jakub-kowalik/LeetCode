@@ -1,4 +1,4 @@
-package main.java.NumberofRecentCalls;
+package main.java.NumberOfRecentCalls;
 
 import java.util.LinkedList;
 import java.util.Queue;
